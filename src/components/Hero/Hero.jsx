@@ -3,7 +3,7 @@
 import React from "react";
 import "./Hero.css";
 
-import Image from "../../assets/img-bg.png";
+import Image from "../../assets/img-bg.webp";
 // import FaceBookIcon from "../../assets/facebook.svg";
 // import TwitterIcon from "../../assets/twitter.svg";
 // import InstagramIcon from "../../assets/instagram.svg";
